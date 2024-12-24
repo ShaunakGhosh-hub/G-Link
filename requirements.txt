@@ -1,0 +1,9 @@
+bad==0.10.0
+cra-template==1.2.0
+firebase==11.1.0
+react==19.0.0
+react-dom==19.0.0
+react-firebase-hooks==5.1.1
+react-scripts==5.0.1
+web-vitals==4.2.4
+words==0.2.1
