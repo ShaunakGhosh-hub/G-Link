@@ -1,7 +1,5 @@
 import React, { useRef, useState } from 'react';
 import './App.css';
-import Footer from './footer'; 
-import './footer.css'
 
 import { initializeApp } from 'firebase/app';
 import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from 'firebase/auth';
@@ -114,3 +112,4 @@ function ChatMessage(props) {
 }
 
 export default App;
+
